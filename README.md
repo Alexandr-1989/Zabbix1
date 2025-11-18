@@ -26,7 +26,7 @@
 Приложите в файл README.md скриншот лога zabbix agent, где видно, что он работает с сервером
 Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
 Приложите в файл README.md текст использованных команд в GitHub
-<img width="1142" height="199" alt="Screenshot_21" src="https://github.com/user-attachments/assets/5d0f2632-e7c9-4387-805a-dd07318a4001" />
+<img width="1084" height="179" alt="Screenshot_13" src="https://github.com/user-attachments/assets/14b6fb98-e246-4b9d-983d-e8037a073a4a" />
 <img width="1391" height="454" alt="Screenshot_20" src="https://github.com/user-attachments/assets/dba82997-b2a0-4631-b485-416ee8242463" />
 <img width="3164" height="676" alt="Screenshot_19" src="https://github.com/user-attachments/assets/a441d1e7-9581-4319-adfa-b244ce2b7fa9" />
 <img width="3153" height="1250" alt="Screenshot_11" src="https://github.com/user-attachments/assets/6c31c8b6-dda7-42ae-a321-87a16f42cb7b" />
